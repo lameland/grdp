@@ -4,7 +4,7 @@
 # This script can store login credentials to a file
 # and won't ask for password in next attempts to access the same host.
 #
-#     IMPORTANT NOTE: THIS SCRIPT WORKS SIMPLE ENCRYPTION USING A BLANK PASSPHRASE IN IT. YOU EITHER HIDE THE SCRIPT FROM OTHER USERS OR DON'T USE IT AT ALL.
+#     IMPORTANT NOTE: THIS SCRIPT HAS SIMPLE ENCRYPTION USING A BLANK PASSPHRASE IN IT. YOU EITHER HIDE THE SCRIPT FROM OTHER USERS OR DON'T USE IT AT ALL.
 #
 # Author: Petar Mitkov (mitkov@cluodchap.com)
 # Ебаньееееее!!!
