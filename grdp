@@ -6,6 +6,10 @@
 #
 #     IMPORTANT NOTE: THIS SCRIPT HAS SIMPLE ENCRYPTION USING A BLANK PASSPHRASE IN IT. YOU EITHER HIDE THE SCRIPT FROM OTHER USERS OR DON'T USE IT AT ALL.
 #
+# REQUIREMENTS: 
+# --- FreeRDP(xfreerdp): http://www.freerdp.com/
+# --- Zenity: https://help.gnome.org/users/zenity/ 
+#
 # Author: Petar Mitkov (mitkov@cluodchap.com)
 # Ебаньееееее!!!
 
